@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MetLife-US-POC/DeploymentServices/_apis/build/status/lauralyen.pipelines-dotnet-core)](https://dev.azure.com/MetLife-US-POC/DeploymentServices/_build/latest?definitionId=15)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
