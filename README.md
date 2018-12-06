@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MetLife-US-POC/DeploymentServices/_apis/build/status/lauralyen.pipelines-javascript?branchName=master)](https://dev.azure.com/MetLife-US-POC/DeploymentServices/_build/latest?definitionId=44?branchName=master)
 [![Build Status](https://dev.azure.com/MetLife-US-POC/DeploymentServices/_apis/build/status/lauralyen.pipelines-dotnet-core)](https://dev.azure.com/MetLife-US-POC/DeploymentServices/_build/latest?definitionId=15)
 # Sample NodeJS application for Azure Pipelines docs
 
